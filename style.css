@@ -82,7 +82,7 @@
         header > p {
             font-family: var(--font2);
             font-size: 1.2em;
-            margin-bottom: 20px;
+            padding-bottom: 50px;
             color: white;
             max-width: 500px;
             padding-right: 10px;
